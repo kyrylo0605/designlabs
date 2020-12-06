@@ -1,1 +1,1 @@
-# designlabs
+# designlabs react-landing-template
